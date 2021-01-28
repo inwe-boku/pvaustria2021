@@ -1,0 +1,13 @@
+timeres: monthly
+url: 'http://re.jrc.ec.europa.eu/pvgis5/PVcalc.php?'
+options:
+ usehorizon: 1
+ raddatabase: PVGIS-CMSAF
+ startyear: 2007
+ endyear: 2016
+ peakpower: 1
+ pvtechchoice: crystSi
+ loss: 15
+ fixed: 1
+ optimalangles: 1
+ outputformat: csv

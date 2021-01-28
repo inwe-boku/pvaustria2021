@@ -1,0 +1,18 @@
+PVJRC:
+ timeres: hourly
+ url: 'http://re.jrc.ec.europa.eu/pvgis5/seriescalc.php?'
+ options:
+  usehorizon: 1
+  raddatabase: PVGIS-CMSAF
+  startyear: 2007
+  endyear:   2016
+  peakpower: 1
+  pvtechchoice: crystSi
+  mountingplace: [free, building]
+  loss: 15
+  trackingtype: 0
+  angle: 0
+  aspect: 0
+  optimalinclination: 1
+  optimalangles: 1
+  components: 0
